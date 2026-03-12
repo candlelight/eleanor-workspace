@@ -21,3 +21,4 @@ node_modules/
 
 # Local config that shouldn't be shared
 openclaw.json
+dreamjob-course/
