@@ -1,0 +1,23 @@
+# Sensitive files
+.env
+.env.*
+.google_token.json
+.notion
+client_secret.json
+
+# OpenClaw internal
+.openclaw/
+
+# Credentials and keys
+send_reply.sh
+scripts/
+
+# Runtime files
+*.log
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# Local config that shouldn't be shared
+openclaw.json
