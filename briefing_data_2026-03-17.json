@@ -1,0 +1,338 @@
+{
+  "briefing_date": "2026-03-17",
+  "briefing_day": "Tuesday",
+  "generated_at": "2026-03-17T23:25:00Z",
+  "sections": {
+    "personal_context": {
+      "weather": {
+        "location": "Sacramento, CA",
+        "current_temp_f": 82,
+        "high_temp_f": 81,
+        "low_temp_f": 61,
+        "conditions": "Heat wave conditions",
+        "wind": "11 mph from West Southwest",
+        "forecast": "Record-setting March heat wave with highs between 90-103°F across coastal plains, valleys and interior through March 19. Sacramento Valley 85-95°F.",
+        "practical_note": "Stay hydrated and limit outdoor activities during peak heat (11am-4pm). This is unseasonably hot for March."
+      }
+    },
+    "financial_markets": {
+      "indices": {
+        "sp_500": {
+          "value": "Flat to slightly positive (+0.17%)",
+          "note": "SPY up $1.16"
+        },
+        "nasdaq": {
+          "value": "Down 0.02%",
+          "note": "Down about 4 points"
+        },
+        "dow": {
+          "value": "Up 0.12%",
+          "note": "Up about 55 points"
+        }
+      },
+      "commodities": {
+        "gold": {
+          "price": "$5,019",
+          "change": "Up $23"
+        },
+        "bitcoin": {
+          "price": "$73,892",
+          "change": "Down ~$980"
+        }
+      },
+      "bonds": {
+        "ten_year_treasury": {
+          "yield": "4.20%",
+          "note": "Down from Monday's close above 4.22% as Fed policy meeting kicked off"
+        }
+      },
+      "congress_trading": {
+        "note": "Recent trading activity tracked via Capitol Trades and Quiver Quantitative",
+        "notable_trades": [
+          {
+            "politician": "Nancy Pelosi",
+            "position": "Dem - House",
+            "activity": "Actively tracked on Quiver Quantitative",
+            "source": "https://www.quiverquant.com/congresstrading/"
+          },
+          {
+            "politician": "Markwayne Mullin",
+            "position": "Rep - Senate",
+            "activity": "Trading activity monitored",
+            "source": "https://www.quiverquant.com/congresstrading/"
+          },
+          {
+            "politician": "J.D. Vance",
+            "position": "Rep - VP",
+            "activity": "Portfolio tracked",
+            "source": "https://www.quiverquant.com/congresstrading/"
+          }
+        ],
+        "disclaimer": "STOCK Act requires disclosure within 45 days. Data reflects recent filings from March 10-12, 2026 period."
+      }
+    },
+    "headlines_news": {
+      "financial_times": [
+        {
+          "headline": "Middle East War: Dubai flights delayed or cancelled after latest drone and missile attacks",
+          "url": "https://www.ft.com/world",
+          "summary": "Regional travel hubs Doha and Abu Dhabi also severely constrained by fallout from conflict."
+        },
+        {
+          "headline": "Top US counterterrorism official resigns over war against Iran",
+          "url": "https://www.ft.com/",
+          "summary": "Joe Kent is first high-profile resignation over conflict he claims 'serves no benefit to the American people'."
+        }
+      ],
+      "reuters": [
+        {
+          "headline": "Live: Iran confirms security chief Larijani killed by Israel as Trump lashes out at NATO allies",
+          "url": "https://www.reuters.com/",
+          "summary": "The US president's comments come after a growing list of nations, including many European powers, turned down his request to help protect the Strait of Hormuz."
+        },
+        {
+          "headline": "Business and Markets Coverage - March 17, 2026",
+          "url": "https://www.reuters.com/business/",
+          "summary": "Comprehensive coverage of global markets as investors digest war developments and Fed policy meeting begins."
+        }
+      ],
+      "ny_times": [
+        {
+          "headline": "Israel Is Picking Off Iran's Leadership, but 'Decapitation Has Its Limits'",
+          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/israel-iran-leader-deaths.html",
+          "summary": "Ali Larijani's death highlighted how heavily Israel is relying on targeted killings to achieve its war aims. That approach can backfire."
+        },
+        {
+          "headline": "Joe Kent, a Top U.S. Counterterrorism Official, Resigns Over the War in Iran",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html",
+          "summary": "National Counterterrorism Center Director becomes highest-profile official to resign over the conflict."
+        }
+      ],
+      "bbc": [
+        {
+          "headline": "Iran confirms security chief Larijani killed by Israel",
+          "url": "https://www.bbc.com/news/articles/cgqgxqekp89o",
+          "summary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers."
+        },
+        {
+          "headline": "Italy warns stricken Russian tanker could explode in Med at any time",
+          "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o",
+          "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz drifting out of control in the Mediterranean Sea."
+        }
+      ],
+      "guardian": [
+        {
+          "headline": "UAE reopens airspace after Iran attack – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
+          "summary": "Trump said the war would be 'wrapped up' soon, suggesting he would delay his upcoming trip to China by 'a month or so'."
+        },
+        {
+          "headline": "Lisa Nandy vows to give BBC permanent charter to prevent political interference",
+          "url": "https://www.theguardian.com/media/2026/mar/17/all",
+          "summary": "Minister says the change is needed to protect the corporation from repeated 'culture war' attacks."
+        }
+      ],
+      "atlantic": [
+        {
+          "headline": "Everyone but Trump Understands What He's Done",
+          "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/",
+          "summary": "Allied leaders know that any positive gesture they make will count for nothing."
+        },
+        {
+          "headline": "Snorkeling in the Strait of Hormuz",
+          "url": "https://www.theatlantic.com/international/2026/03/snorkeling-strait-hormuz/686417/",
+          "summary": "With Iran threatening to attack, points of entry to the strait are ready to turn into sprawling maritime parking lots, filled with idle ships waiting for their escorts."
+        }
+      ]
+    },
+    "tech_ai": {
+      "wired": [
+        {
+          "headline": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+          "url": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+          "summary": "Meta's flailing virtual reality social experience is being discontinued in June as part of broader moves to slim down the business."
+        },
+        {
+          "headline": "The Tesla Influencers Leaving the 'Cult'",
+          "url": "https://www.wired.com/story/the-tesla-influencers-leaving-the-cult/",
+          "summary": "Elon Musk's politics and overblown hype about Full Self-Driving are turning some loyalists away."
+        }
+      ],
+      "techcrunch": [
+        {
+          "headline": "Build Mode Podcast - Survival guide for early-stage founders",
+          "url": "https://techcrunch.com/",
+          "summary": "New episodes every Thursday featuring candid conversations and tactical advice from experienced founders."
+        }
+      ],
+      "the_verge": [
+        {
+          "headline": "Meta is shutting down its VR metaverse on June 15th",
+          "url": "https://www.theverge.com/",
+          "summary": "Company shifting to 'all-in on mobile' strategy for Horizon Worlds."
+        },
+        {
+          "headline": "Tumblr reverts controversial reblog changes after user backlash",
+          "url": "https://www.theverge.com/tech/895954/tumblr-reblog-chain-update-backlash",
+          "summary": "Changes that dramatically altered the function of the site's reblog feature are being reverted."
+        }
+      ],
+      "ai_developments": [
+        {
+          "headline": "Anthropic rolled out memory features to all Claude users",
+          "url": "https://www.anthropic.com/news",
+          "summary": "Early March 2026: Claude can now retain context and preferences across conversations. Company also launched Claude Sonnet 4.6 and Opus 4.6 in February."
+        },
+        {
+          "headline": "Nvidia GTC 2026: AI and Robotics News",
+          "url": "https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/",
+          "summary": "Jensen Huang's keynote ongoing. Nvidia remains the backbone of AI chip production for OpenAI, Google and Anthropic."
+        }
+      ]
+    },
+    "below_the_fold": {
+      "design_ux": [
+        {
+          "headline": "3 Tips to Make AI a Better Editor",
+          "source": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/videos/better-AI-editor/",
+          "date": "March 16, 2026",
+          "summary": "Although AI is (usually) good at editing, good prompting practices shouldn't be ignored. These 3 tips will help take AI edits to the next level."
+        },
+        {
+          "headline": "Design Process Isn't Dead, It's Compressed",
+          "source": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/articles/design-process-isnt-dead/",
+          "date": "March 13, 2026",
+          "summary": "As AI speeds up design work, the argument to 'throw out the process' misrepresents how experienced designers work."
+        },
+        {
+          "headline": "The Methodological Problems Hiding in Your Research Tools",
+          "source": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/articles/research-tool-problems/",
+          "date": "March 13, 2026",
+          "summary": "The methodological blind spots in UX research tools have always been a problem. Now that AI is planning and analyzing research, it's gotten worse."
+        }
+      ],
+      "surface_pattern_textile": [
+        {
+          "headline": "Trend Resources for Textile Designers: What's Out There and How to Use Them",
+          "source": "Pattern Observer",
+          "url": "https://patternobserver.com/2026/03/14/trend-resources-for-textile-designers-whats-out-there-and-how-to-use-them/",
+          "date": "March 14, 2026",
+          "summary": "Guide to trend resources for textile designers. First lesson and WGSN registration available March 30, 2026."
+        },
+        {
+          "headline": "Scottish Art Nouveau from Charles & Margaret Mackintosh",
+          "source": "Pattern Observer",
+          "url": "https://patternobserver.com/2026/03/08/scottish-art-nouveau-from-charles-margaret-mackintosh/",
+          "date": "March 8, 2026",
+          "summary": "Exploration of Art Nouveau influences from the Mackintoshes and their impact on contemporary pattern design."
+        },
+        {
+          "headline": "Designer Feature: Saeideh Ghanbari",
+          "source": "Pattern Observer",
+          "url": "https://patternobserver.com/2026/02/03/designer-feature-saeideh-ghanbari/",
+          "date": "February 3, 2026",
+          "summary": "Surface design patterns from Saeideh Ghanbari of Düsseldorf, Germany that work perfectly for home textiles and wallpaper markets."
+        }
+      ],
+      "graphic_design_merch": [
+        {
+          "headline": "Coinbase dials up the craft in cinematic new ad",
+          "source": "Creative Review",
+          "url": "https://www.creativereview.co.uk/coinbase-oscars-ad-oscar-hudson-isle-of-any/",
+          "date": "March 17, 2026",
+          "summary": "Created by Isle of Any, the ad ran during yesterday's Oscars ceremony, offering a vision of financial freedom for those of us who are 'financial NPCs' in the computer game of life."
+        },
+        {
+          "headline": "Inside Ramdane Touhami's magical world of retail",
+          "source": "Creative Review",
+          "url": "https://www.creativereview.co.uk/ramdane-touhami-retail-magic-craft-innovation/",
+          "date": "March 17, 2026",
+          "summary": "As the prolific designer behind hundreds of retail spaces, including the exquisite Officine Universelle Buly 1803 perfumeries, Ramdane Touhami is focused on craft, detail and delivering innovative products with authenticity."
+        },
+        {
+          "headline": "The mentors who are helping others through redundancy",
+          "source": "Creative Review",
+          "url": "https://www.creativereview.co.uk/mentors-redundancy-job-market-creative-industries/",
+          "date": "March 17, 2026",
+          "summary": "In the wake of creative industry redundancies, key voices are emerging to help those in career crisis navigate the messy middle and find a route through to the other side."
+        }
+      ],
+      "film_screenwriting": [
+        {
+          "headline": "'Buffy' Autopsy Report: The Inside Story Of How High-Profile Reboot Was Shockingly Slayed",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/03/buffy-inside-story-reboot-killed-why-sarah-michelle-gellar-1236757372/",
+          "date": "March 17, 2026",
+          "summary": "Almost every day last week, the studios on Hulu and Oscar winner Chloé Zhao's 'Buffy the Vampire Slayer' reboot were in touch with the project's producers indicating a pickup seemed imminent. By 6 p.m. Friday, the project was dead."
+        },
+        {
+          "headline": "A24's 'Peaked' Adds Five To Cast",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/03/peaked-movie-a24-casts-five-1236758503/",
+          "date": "March 17, 2026",
+          "summary": "A24's new comedy Peaked, from Molly Gordon and Allie Levitan, has cast five more in supporting roles including Amy Sedaris, Owen Thiele, and Jaya Harper."
+        }
+      ]
+    },
+    "film_grants_opportunities": {
+      "note": "Published Mondays only. Today is Tuesday, March 17, 2026.",
+      "next_update": "Monday, March 23, 2026",
+      "sources": [
+        "Women in Film & Video DC (WIFV.org)",
+        "Film Independent (filmindependent.org)",
+        "Sundance Institute (sundance.org)",
+        "Screencraft (screencraft.org)",
+        "Women in Film LA (wif.org)",
+        "Creative Capital (creative-capital.org)",
+        "Jerome Foundation (jeromefdn.org)",
+        "ITVS (itvs.org)"
+      ]
+    },
+    "job_opportunities": {
+      "note": "Published Wednesdays only. Today is Tuesday, March 17, 2026.",
+      "next_update": "Wednesday, March 18, 2026",
+      "target_roles": [
+        "Systems Strategist",
+        "Service Design",
+        "Design Ops",
+        "UX Leadership"
+      ],
+      "regions": ["EU", "UK", "US"],
+      "job_boards": [
+        "LinkedIn",
+        "Indeed",
+        "Glassdoor",
+        "UX Jobs Board (UK)",
+        "Design Week Jobs (UK/EU)",
+        "Coroflot",
+        "AIGA Design Jobs",
+        "Service Design Jobs",
+        "DesignOps Assembly",
+        "Tech Jobs for Good (techjobsforgood.com)",
+        "If You Could Jobs",
+        "Authentic Jobs",
+        "We Work Remotely",
+        "AngelList/Wellfound"
+      ],
+      "networking_community": [
+        "Tech for Public Good (publicgood.tech) — civic tech professional association"
+      ],
+      "target_companies": [
+        "GDS (UK)",
+        "IDEO",
+        "Frog",
+        "McKinsey Digital",
+        "BCG Digital Ventures",
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Airbnb",
+        "Spotify",
+        "Netflix"
+      ]
+    }
+  }
+}
